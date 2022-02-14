@@ -1,6 +1,6 @@
 ![Docker Automated build](https://img.shields.io/docker/automated/aishwaryasarath/pythonk8s?style=plastic)
 # pythontok8s
-A Simple python flask hello world app containerization demo
+A Simple python flask hello world app containerization and orchestration demo
 
 ## Requirements
 ```python
