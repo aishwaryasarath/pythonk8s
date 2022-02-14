@@ -33,5 +33,6 @@ kubectl get svc
 ```
 
 ## Validate application
+```
 browse live application exposed through a load balancer http://localhost:8080
-
+```
