@@ -1,0 +1,9 @@
+version: "3.4"
+services:
+  pythonk8s:
+    build:
+      context: .
+    container_name: pythonk8s
+    image: aishwaryasarath/pythonk8s:1.0.0
+    ports:
+    - 5003:5003
