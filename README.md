@@ -1,5 +1,5 @@
 ![Docker Automated build](https://img.shields.io/docker/automated/aishwaryasarath/pythonk8s?style=plastic)
-# pythontok8s
+# Deploy python app to Kuberbetes demo
 A Simple python flask hello world app containerization and orchestration demo
 
 ## Requirements
