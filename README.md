@@ -26,6 +26,7 @@ docker-compose push
 kubectl apply -f kubernetes/deployment/deployment.yaml
 kubectl get deploy
 kubectl get pods
+```
 ```enable network traffic, expose and loadbalancing
 kubectl apply -f kubernetes/services/service.yaml
 kubectl get svc
